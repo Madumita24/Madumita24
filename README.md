@@ -32,12 +32,23 @@
 
 ## 🚀 About Me  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖-LLM%20Applications-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📊-ML%20Pipelines%20%26%20Forecasting-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☁️-Cloud%20Deployments-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌟-Data→Insights→Impact-yellow?style=for-the-badge" />
-</p>
+<table>
+<tr>
+<td width="50%">
+  
+- 🤖 Building **LLM-powered apps** with LangChain, OpenAI, HuggingFace  
+- 📊 Designing **ML pipelines & forecasting models**  
+
+</td>
+<td width="50%">
+  
+- ☁️ Deploying on **Streamlit, Firebase, Docker, GCP, AWS**  
+- 🌟 Turning **data → insights → impact**  
+
+</td>
+</tr>
+</table>
+
 
 ---
 
