@@ -40,24 +40,7 @@
 
 </div>
 
-## 🚀 About Me  
 
-<table>
-<tr>
-<td width="50%">
-  
-- 🤖 Building **LLM-powered apps** with LangChain, OpenAI, HuggingFace  
-- 📊 Designing **ML pipelines & forecasting models**  
-
-</td>
-<td width="50%">
-  
-- ☁️ Deploying on **Streamlit, Firebase, Docker, GCP, AWS**  
-- 🌟 Turning **data → insights → impact**  
-
-</td>
-</tr>
-</table>
 
 
 ---
