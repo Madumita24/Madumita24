@@ -1,11 +1,52 @@
+# name: GitHub Metrics
+# on:
+#   schedule: [{ cron: "0 6 * * *" }]   # daily
+#   workflow_dispatch:                  # allow manual run
+
+# # Let the workflow commit metrics.svg back to the repo
+# permissions:
+#   contents: write
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Generate metrics
+#         uses: lowlighter/metrics@latest
+#         with:
+#           # EASIEST: use the workflow token for both reading+committing
+#           token: ${{ secrets.GITHUB_TOKEN }}
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+#           # If you prefer your own PAT, add it as METRICS_TOKEN secret and swap the next line:
+#           # token: ${{ secrets.METRICS_TOKEN }}
+#           # committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+#           user: Madumita24
+#           filename: metrics.svg              # <-- ensures the file is created
+#           template: classic
+#           base: header, activity, repositories, metadata
+#           config_timezone: America/Phoenix
+
+#           # Plugins (safe defaults)
+#           plugin_languages: yes
+#           plugin_languages_ignored: html, css
+#           plugin_languages_limit: 8
+#           plugin_followup: yes
+#           plugin_followup_sections: repositories, user
+#           plugin_achievements: yes
+#           plugin_achievements_threshold: C
+#           plugin_topics: yes
+#           plugin_topics_limit: 12
+#           plugin_topics_mode: icons
+
 name: GitHub Metrics
 on:
   schedule: [{ cron: "0 6 * * *" }]   # daily
-  workflow_dispatch:                  # allow manual run
+  workflow_dispatch:                  # manual run
 
-# Let the workflow commit metrics.svg back to the repo
 permissions:
-  contents: write
+  contents: write                     # allow committing metrics.svg
 
 jobs:
   build:
@@ -14,28 +55,39 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # EASIEST: use the workflow token for both reading+committing
+          # Use the workflow token for both reading & committing
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          # If you prefer your own PAT, add it as METRICS_TOKEN secret and swap the next line:
-          # token: ${{ secrets.METRICS_TOKEN }}
-          # committer_token: ${{ secrets.GITHUB_TOKEN }}
-
+          # --- Profile / output ---
           user: Madumita24
-          filename: metrics.svg              # <-- ensures the file is created
+          filename: metrics.svg
           template: classic
-          base: header, activity, repositories, metadata
           config_timezone: America/Phoenix
+          config_display: large
+          config_order: base, languages, topics, stars, followup, achievements
 
-          # Plugins (safe defaults)
+          # --- Base sections ---
+          base: header, activity, repositories, metadata
+
+          # --- Plugins (polished + safe) ---
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
+
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 12
+
+          plugin_stars: yes
+
           plugin_followup: yes
           plugin_followup_sections: repositories, user
+
+          # Relaxed achievements (prevents the "Unexpected error")
           plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugin_topics_mode: icons
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: no
+
+          # Optional visual tweaks
+          config_twemoji: yes
