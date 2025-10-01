@@ -25,8 +25,9 @@
 
 <!-- Subtle divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:0E75B6,100:6AA9E9&section=footer&reversal=true&text=&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0E75B6,100:6AA9E9&section=footer&animation=twinkling" />
 </p>
+
 
 
 ---
