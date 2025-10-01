@@ -3,7 +3,7 @@
 <h3 align="center">🌟 Data Science @ ASU | GenAI • ML • Cloud • Dashboards 🌟</h3>
 
 <p align="center">
-  🎓 Master’s Student in Data Science, Analytics & Engineering (GPA: 4.0/4.0)<br>
+  🎓 Master’s Student in Data Science, Analytics & Engineering (GPA: 4.0/4.0)<br> 
   💡 Building scalable AI systems for <b>healthcare, manufacturing & social good</b><br>
   🏆 Hackathon Winner | 📊 ML • GenAI • Cloud Deployments
 </p>
