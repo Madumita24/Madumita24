@@ -17,6 +17,10 @@
 - 🌟 Passionate about turning **data → insights → impact**
 
 ---
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics" />
+</p>
+
 
 ## 🔥 Featured Projects
 
