@@ -1,12 +1,38 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Madumita</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=720&lines=Hi+there+👋,+I'm+Madumita;Data+Science+@+ASU;GenAI+•+ML+•+Cloud+•+Dashboards;Always+curious,+always+building" alt="typing intro" />
+</p>
+
 <h3 align="center">🌟 Data Science @ ASU | GenAI • ML • Cloud • Dashboards 🌟</h3>
 
+<!-- Badges row -->
 <p align="center">
-  🎓 Master’s Student in Data Science, Analytics & Engineering (GPA: 4.0/4.0)<br> 
-  💡 Building scalable AI systems for <b>healthcare, manufacturing & social good</b><br>
-  🏆 Hackathon Winner | 📊 ML • GenAI • Cloud Deployments
+  <img src="https://img.shields.io/badge/GPA-4.0%2F4.0-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon-Winner-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20|%20ML%20|%20Cloud-0E75B6?style=for-the-badge" />
 </p>
+
+<!-- Quick CTA buttons -->
+<p align="center">
+  <a href="mailto:mkarthi5@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/madumita24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Madumita24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<!-- Collapsible quick bio -->
+<details align="center">
+  <summary><b>✨ About Me</b></summary>
+  <br>
+  🎓 Master’s Student in Data Science, Analytics & Engineering (GPA: 4.0/4.0) <br>
+  💡 Building scalable AI systems for <b>healthcare, manufacturing & social good</b> <br>
+  🏆 Hackathon Winner · 📊 ML • GenAI • Cloud Deployments
+</details>
+
+<!-- Subtle divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:0E75B6,100:6AA9E9&section=footer&reversal=true&text=&fontColor=ffffff&animation=twinkling" />
+</p>
+
 
 ---
 
