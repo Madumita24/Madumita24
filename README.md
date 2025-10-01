@@ -28,7 +28,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0E75B6,100:6AA9E9&section=footer&animation=twinkling" />
 </p>
 
+<div align="center" style="background: linear-gradient(90deg, #0E75B6, #6AA9E9); padding: 20px; border-radius: 10px; color: white;">
+  
+  <h2>🚀 About Me</h2>
+  <p>
+    🤖 Building <b>LLM-powered apps</b> with LangChain, OpenAI, HuggingFace <br>
+    📊 Designing <b>ML pipelines & forecasting models</b> <br>
+    ☁️ Deploying on <b>Streamlit, Firebase, Docker, GCP, AWS</b> <br>
+    🌟 Turning <b>data → insights → impact</b>  
+  </p>
 
+</div>
 
 ## 🚀 About Me  
 
