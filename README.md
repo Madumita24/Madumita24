@@ -16,7 +16,7 @@
 
 <!-- Collapsible quick bio -->
 <details align="center">
-  <summary><b>✨ About Me</b></summary>
+  <summary><b>✨ Who am I? </b></summary>
   <br>
   🎓 Master’s Student in Data Science, Analytics & Engineering (GPA: 4.0/4.0) <br>
   💡 Building scalable AI systems for <b>healthcare, manufacturing & social good</b> <br>
@@ -30,15 +30,18 @@
 
 
 
+## 🚀 About Me  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖-LLM%20Applications-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊-ML%20Pipelines%20%26%20Forecasting-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️-Cloud%20Deployments-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌟-Data→Insights→Impact-yellow?style=for-the-badge" />
+</p>
+
 ---
 
-## 🚀 About Me
-- 🤖 I love building **LLM-powered applications** (LangChain, OpenAI, HuggingFace)  
-- 📊 I design **data pipelines & ML models** for forecasting, prediction & signal analysis  
-- ☁️ I deploy end-to-end solutions with **Streamlit, Firebase, Docker, GCP & AWS**  
-- 🌟 Passionate about turning **data → insights → impact**
 
----
 <p align="center">
   <img src="metrics.svg?raw=1" alt="GitHub metrics" />
 </p>
