@@ -18,8 +18,9 @@
 
 ---
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
+  <img src="metrics.svg?raw=1" alt="GitHub metrics" />
 </p>
+
 
 
 ## 🔥 Featured Projects
