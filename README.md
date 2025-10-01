@@ -12,12 +12,7 @@
   <img src="https://img.shields.io/badge/Focus-GenAI%20|%20ML%20|%20Cloud-0E75B6?style=for-the-badge" />
 </p>
 
-<!-- Quick CTA buttons -->
-<p align="center">
-  <a href="mailto:mkarthi5@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/madumita24/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Madumita24"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+
 
 <!-- Collapsible quick bio -->
 <details align="center">
