@@ -1,7 +1,10 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 6 * * *"}] # runs daily at 06:00 UTC
-  workflow_dispatch:              # allows manual run
+  schedule: [{cron: "0 6 * * *"}]   # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <-- allow this workflow to commit the SVG
 
 jobs:
   build:
@@ -9,13 +12,20 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Use your read-only PAT for API reads:
           token: ${{ secrets.METRICS_TOKEN }}
+          # Use the workflow's writer token for committing the file:
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
           user: Madumita24
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: America/Phoenix
 
-          # Plugins
+          # Output file
+          filename: metrics.svg
+
+          # Nice plugins
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
