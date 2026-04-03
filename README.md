@@ -68,10 +68,11 @@ Real-time sentiment analytics with Firebase + OpenAI.
 🏅 *Most Creative Design* – ASU Hackathon  
 
 ---
+<!-- Streak + Trophies -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Madumita24/Madumita24/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid" />
+  <img src="https://streak-stats.demolab.com?user=Madumita24" height="165">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madumita24&theme=flat&no-frame=true&margin-w=8" height="165">
 </p>
-
 <!-- Activity Graph -->
 
 <p align="center">
