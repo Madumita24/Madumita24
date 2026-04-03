@@ -69,7 +69,7 @@ Real-time sentiment analytics with Firebase + OpenAI.
 
 ---
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Madumita24&theme=dark" alt="GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/Madumita24/Madumita24/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid" />
 </p>
 
 <!-- Activity Graph -->
