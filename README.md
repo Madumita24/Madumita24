@@ -78,7 +78,9 @@ Real-time sentiment analytics with Firebase + OpenAI.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=ffffff&color=0E75B6&line=6AA9E9&point=000000&area=true&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Madumita24/Madumita24/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid" />
+</p>
 
 ## 🛠️ Tech Toolbox
 
