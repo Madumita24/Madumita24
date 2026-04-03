@@ -29,7 +29,7 @@
 </p>
 
 <div align="center" style="background: linear-gradient(90deg, #0E75B6, #6AA9E9); padding: 20px; border-radius: 10px; color: white;">
-  
+
   <h2>🚀 About Me</h2>
   <p>
     🤖 Building <b>LLM-powered apps</b> with LangChain, OpenAI, HuggingFace <br>
@@ -46,6 +46,9 @@
 ---
 
 
+<p align="center">
+  <img src="metrics.svg?raw=1" alt="GitHub metrics" />
+</p>
 
 
 
@@ -68,11 +71,19 @@ Real-time sentiment analytics with Firebase + OpenAI.
 🏅 *Most Creative Design* – ASU Hackathon  
 
 ---
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&rank_icon=github&hide_title=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madumita24&layout=compact&langs_count=8" height="165">
 </p>
+
+<!-- Streak + Trophies -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Madumita24" height="165">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madumita24&theme=flat&no-frame=true&margin-w=8" height="165">
+</p>
+
 <!-- Activity Graph -->
 
 <p align="center">
