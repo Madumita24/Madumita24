@@ -69,16 +69,8 @@ Real-time sentiment analytics with Firebase + OpenAI.
 
 ---
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&rank_icon=github&hide_title=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madumita24&layout=compact&langs_count=8" height="165">
-</p>
-
-<!-- Streak + Trophies -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madumita24" height="165">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madumita24&theme=flat&no-frame=true&margin-w=8" height="165">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Madumita24&theme=dark" alt="GitHub contribution graph" />
 </p>
 
 <!-- Activity Graph -->
