@@ -68,9 +68,8 @@ Real-time sentiment analytics with Firebase + OpenAI.
 🏅 *Most Creative Design* – ASU Hackathon  
 
 ---
-<!-- GitHub Contribution Grid (Black + Green Style) -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/30A14E/Madumita24" alt="Madumita's Github chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=000000&color=30A14E&line=30A14E&point=30A14E&area=true&hide_border=true" />
 </p>
 
 <!-- Activity Graph -->
