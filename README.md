@@ -237,8 +237,7 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&bg_color=020810&title_color=00D4FF&icon_color=0E75B6&text_color=CBD5E1&border_color=0E75B6&border_radius=10" height="170"/>
-&nbsp;&nbsp;
+
 
 
 </div>
