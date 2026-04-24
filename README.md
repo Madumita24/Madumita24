@@ -36,7 +36,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 </div>
 
----
+
 
 ## 🧬 About Me
 
@@ -70,7 +70,7 @@ class Madumita:
     motto       = "data → insights → impact"
 ```
 
----
+
 
 ## 🏆 Awards & Recognition
 
@@ -101,7 +101,7 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 </div>
 
----
+
 
 ## 📊 Impact by the Numbers
 
@@ -114,7 +114,7 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 </div>
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -242,7 +242,7 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 </div>
 
----
+
 
 ## 📫 Let's Connect
 
@@ -262,7 +262,7 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 </div>
 
----
+
 
 <div align="center">
 
