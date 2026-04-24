@@ -237,7 +237,11 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 <br/>
 
+## GitHub Contributions
 
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Madumita24" alt="GitHub contribution graph" />
+</p>
 
 
 </div>
