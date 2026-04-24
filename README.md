@@ -240,7 +240,7 @@ FeelIn — Emotion-Aware Dashboard<br/>
 ## GitHub Contributions
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Madumita24" alt="Madumita24 GitHub contribution grid" />
+  <img src="https://ghchart.rshah.org/00ff66/Madumita24" alt="Madumita24 GitHub contribution grid" />
 </p>
 </div>
 
