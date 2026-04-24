@@ -123,7 +123,7 @@ madumita = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=050A14&color=6AA9E9&line=0E75B6&point=6AA9E9&area=true&hide_border=true&area_color=0E75B6" width="100%" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=050A14&color=6AA9E9&line=0E75B6&point=6AA9E9&area=true&hide_border=true)
+
 
 ---
 
