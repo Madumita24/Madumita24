@@ -123,11 +123,7 @@ madumita = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=050A14&color=6AA9E9&line=0E75B6&point=6AA9E9&area=true&hide_border=true&area_color=0E75B6" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&theme=tokyonight&bg_color=050A14&title_color=6AA9E9&icon_color=0E75B6&text_color=CBD5E1&border_color=0E75B6&hide_border=false" height="160" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Madumita24&theme=tokyonight&background=050A14&ring=0E75B6&fire=6AA9E9&currStreakLabel=6AA9E9&border=0E75B6" height="160" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=050A14&color=6AA9E9&line=0E75B6&point=6AA9E9&area=true&hide_border=true)
 
 ---
 
