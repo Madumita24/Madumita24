@@ -237,13 +237,6 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 <br/>
 
-<!-- Contribution Graph (Black + Green) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=000000&color=30A14E&line=30A14E&point=30A14E&area=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Madumita24&theme=dark" alt="GitHub contribution graph" />
-</p>
 
 
 
