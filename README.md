@@ -4,14 +4,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020810,40:0E75B6,100:00D4FF&text=Madumita%20Karthikeyan&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Data%20Science%20%40%20ASU%20%7C%20GenAI%20%C2%B7%20ML%20%C2%B7%20Cloud&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Building+LLM-powered+applications...;Designing+ML+pipelines+%26+forecasts...;Deploying+on+GCP%2C+AWS+%26+Docker...;Achieving+97%25+EEG+accuracy...;Turning+data+%E2%86%92+insights+%E2%86%92+impact..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=60&lines=Building+LLM-powered+applications...;MS+Outstanding+Student+%F0%9F%8F%86+SCAI+Spring+2026;Designing+ML+pipelines+%26+forecasts...;Deploying+on+GCP%2C+AWS+%26+Docker...;Achieving+97%25+EEG+accuracy...;Turning+data+%E2%86%92+insights+%E2%86%92+impact..." alt="Typing SVG"/>
 
 <br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/GPA-4.0%2F4.0-69F0AE?style=for-the-badge&labelColor=020810&color=69F0AE"/>
+<img src="https://img.shields.io/badge/GPA-3.87%2F4.0-69F0AE?style=for-the-badge&labelColor=020810&color=69F0AE"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🏆_Hackathon-Winner-FFD54F?style=for-the-badge&labelColor=020810"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_MS_Outstanding-Student_Award-FFD700?style=for-the-badge&labelColor=020810"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-GenAI_%7C_ML_%7C_Cloud-00D4FF?style=for-the-badge&labelColor=020810"/>
 &nbsp;
@@ -43,7 +45,8 @@
 ║                    SYSTEM INITIALIZING...                        ║
 ║  USER     → Madumita Karthikeyan                                 ║
 ║  ROLE     → M.S. Data Science, Analytics & Engineering @ ASU    ║
-║  GPA      → 4.0 / 4.0  ████████████████████  100%              ║
+║  GPA      → 3.87 / 4.0  ██████████████████░░  97%              ║
+║  AWARD    → 🏆 SCAI Spring 2026 MS Outstanding Student           ║
 ║  MISSION  → data  →  insights  →  impact                        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -56,13 +59,47 @@
 
 ```python
 class Madumita:
-    education   = "M.S. Data Science, Analytics & Engineering @ ASU (GPA: 4.0/4.0)"
+    education   = "M.S. Data Science, Analytics & Engineering @ ASU (GPA: 3.87/4.0)"
     building    = ["LLM-powered apps", "ML pipelines", "forecasting models"]
     stack       = ["LangChain", "OpenAI", "HuggingFace", "GCP", "AWS", "Docker"]
     domains     = ["Healthcare AI", "Manufacturing", "Social Good"]
-    achievement = "🏅 Most Creative Design — ASU Hackathon"
+    awards      = [
+                    "🥇 MS Outstanding Student — SCAI Spring 2026",
+                    "🏅 Most Creative Design — ASU Hackathon"
+                  ]
     motto       = "data → insights → impact"
 ```
+
+---
+
+## 🏆 Awards & Recognition
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎓 MS Outstanding Student
+**School of Computing and Augmented Intelligence**<br/>
+Spring 2026 Student Awards · Ira A. Fulton Schools of Engineering<br/>
+*Data Science, Analytics and Engineering — Computing and Decision Analytics MS Thesis*<br/>
+<sub>Arizona State University · Awarded by Director Ross Maciejewski</sub>
+
+</td>
+<td align="center" width="50%">
+
+### 🏅 Most Creative Design
+**ASU Hackathon**<br/>
+FeelIn — Emotion-Aware Dashboard<br/>
+*Real-time sentiment analytics with Firebase + OpenAI*<br/>
+<sub>Arizona State University</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
