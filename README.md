@@ -246,7 +246,7 @@ FeelIn — Emotion-Aware Dashboard<br/>
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Madumita_24)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Madumita24)
 
 
 ## 📫 Let's Connect
