@@ -90,8 +90,6 @@ Real-time monitoring architecture for 175 sensor streams across 90 assets, combi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madumita24&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages"/>
 
 </div>
 
