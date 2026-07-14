@@ -28,34 +28,40 @@ My work sits at the intersection of **LLM systems, model evaluation, AI governan
 <tr>
 <td width="50%" valign="top">
 
-### Phoenix Climate Action Plan AI
-Multi-agent policy analysis system with hybrid retrieval, structured outputs, stage-level controls, and evaluation using faithfulness and relevance metrics.
+### [Phoenix Climate Action Plan AI](https://github.com/Madumita24/Policy-Generator)
+Multi-agent policy analysis system with hybrid retrieval, structured outputs, stage-level controls, and evaluation using faithfulness and relevance metrics. Deployed on AWS for the City of Phoenix.
 
 `LangChain` `DSPy` `FastAPI` `pgvector` `RAG`
+
+🔗 [View repo →](https://github.com/Madumita24/Policy-Generator)
 
 </td>
 <td width="50%" valign="top">
 
-### AI-Native Task Management Platform
+### [AI-Native Task Management Platform](https://github.com/Madumita24/Task-management)
 Agentic task platform with intent-aware CRUD, semantic deduplication, multimodal ingestion, streaming responses, RBAC, and prompt-injection guardrails.
 
 `NestJS` `Angular` `PostgreSQL` `OpenAI` `SSE`
+
+🔗 [View repo →](https://github.com/Madumita24/Task-management)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Topology-Augmented Forecasting
-Research on integrating persistent-homology features with BiLSTM forecasting to improve reservoir-storage predictions and latent-space stability.
+### [Topology-Augmented Forecasting](https://github.com/Madumita24/TopoForecast)
+Research integrating persistent-homology features with BiLSTM forecasting — up to 17× step-variance reduction and consistent RMSE gains at 7- and 30-day horizons.
 
 `PyTorch` `BiLSTM` `TDA` `Dionysus` `Time Series`
+
+🔗 [View repo →](https://github.com/Madumita24/TopoForecast)
 
 </td>
 <td width="50%" valign="top">
 
 ### ARIA Industrial AI Assistant
-Real-time monitoring architecture for 175 sensor streams across 90 assets, combining anomaly detection, SOP retrieval, alerts, and work-order automation.
+Real-time monitoring architecture for 175 sensor streams across 90 assets at sub-200ms latency — anomaly detection, SOP retrieval, alerts, and work-order automation.
 
 `Kafka` `WebSockets` `RAG` `Python` `Monitoring`
 
@@ -87,10 +93,12 @@ Real-time monitoring architecture for 175 sensor streams across 90 assets, combi
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madumita24&layout=compact&theme=react&hide_border=true" width="42%" alt="Top languages"/>
 
 </div>
 
-
+<div align="center">
 
 ### Let us build reliable AI systems that create measurable impact.
 
