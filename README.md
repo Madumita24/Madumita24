@@ -18,9 +18,11 @@
 
 ## About
 
-I am an **AI/ML engineer and researcher** focused on building reliable agentic systems, retrieval-augmented applications, and forecasting models. I recently completed my **M.S. in Data Science, Analytics and Engineering at Arizona State University**, where my thesis explored topology-augmented neural time-series forecasting for reservoir storage.
+## About
 
-My work sits at the intersection of **LLM systems, model evaluation, AI governance, time-series learning, and applied decision support**.
+I'm an **AI Engineer and researcher** focused on designing **reliable, production-ready AI systems**. My work spans **Agentic AI, Retrieval-Augmented Generation (RAG), LLM evaluation, AI governance, and time-series forecasting**, with an emphasis on building intelligent systems that are scalable, explainable, and impactful.
+
+I recently completed my **M.S. in Data Science, Analytics and Engineering at Arizona State University**, where my thesis explored **topology-augmented neural forecasting** for long-horizon reservoir storage prediction. I enjoy translating cutting-edge research into practical AI applications that solve real-world challenges.
 
 ## Featured Work
 
@@ -59,7 +61,7 @@ Real-time monitoring architecture for 175 sensor streams across 90 assets, combi
 
 `Kafka` `WebSockets` `RAG` `Python` `Monitoring`
 
-</td>
+</td>https://github.com/Madumita24/Madumita24/blob/main/README.md
 </tr>
 </table>
 
