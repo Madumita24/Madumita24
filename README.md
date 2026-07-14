@@ -3,30 +3,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img alt="Madumita Karthikeyan — AI Engineer and Researcher" src="./assets/dark.svg" width="100%">
+  <img alt="Madumita Karthikeyan — AI Engineer, Agentic Systems Builder, and ML Researcher" src="./assets/dark.svg" width="100%">
 </picture>
 
 <br/>
 
-<a href="mailto:kmadumita54@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kmadumita54%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
-</a>
+<a href="mailto:kmadumita54@gmail.com"><img src="https://img.shields.io/badge/Email-kmadumita54%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/madumita24/">
-  <img src="https://img.shields.io/badge/LinkedIn-madumita24-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/madumita24/"><img src="https://img.shields.io/badge/LinkedIn-madumita24-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/Madumita24">
-  <img src="https://img.shields.io/badge/GitHub-Madumita24-181717?style=flat-square&logo=github&logoColor=white">
-</a>
+<a href="https://github.com/Madumita24"><img src="https://img.shields.io/badge/GitHub-Madumita24-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
 ## About
 
-I am an AI/ML engineer and applied researcher focused on building systems that are **useful, reliable, explainable, and production-ready**. My work spans agentic AI, retrieval-augmented generation, LLM evaluation, time-series forecasting, and AI-enabled decision support.
+I am an **AI/ML engineer and researcher** focused on building reliable agentic systems, retrieval-augmented applications, and forecasting models. I recently completed my **M.S. in Data Science, Analytics and Engineering at Arizona State University**, where my thesis explored topology-augmented neural time-series forecasting for reservoir storage.
 
-I recently completed my M.S. in Data Science, Analytics and Engineering at Arizona State University, where my thesis explored topology-augmented neural forecasting for reservoir storage.
+My work sits at the intersection of **LLM systems, model evaluation, AI governance, time-series learning, and applied decision support**.
 
 ## Featured Work
 
@@ -34,18 +28,18 @@ I recently completed my M.S. in Data Science, Analytics and Engineering at Arizo
 <tr>
 <td width="50%" valign="top">
 
-### Phoenix Climate Action Plan AI System
-Sequential multi-agent policy-analysis workflow with hybrid retrieval, reranking, structured outputs, validation controls, and stage-level failure reporting.
+### Phoenix Climate Action Plan AI
+Multi-agent policy analysis system with hybrid retrieval, structured outputs, stage-level controls, and evaluation using faithfulness and relevance metrics.
 
-**Stack:** Python · FastAPI · LangChain · DSPy · PostgreSQL · pgvector
+`LangChain` `DSPy` `FastAPI` `pgvector` `RAG`
 
 </td>
 <td width="50%" valign="top">
 
 ### AI-Native Task Management Platform
-Full-stack task platform with RAG search, intent-aware CRUD, semantic deduplication, anomaly checks, multimodal ingestion, and SSE streaming.
+Agentic task platform with intent-aware CRUD, semantic deduplication, multimodal ingestion, streaming responses, RBAC, and prompt-injection guardrails.
 
-**Stack:** NestJS · Angular · PostgreSQL · pgvector · OpenAI · Docker
+`NestJS` `Angular` `PostgreSQL` `OpenAI` `SSE`
 
 </td>
 </tr>
@@ -53,28 +47,27 @@ Full-stack task platform with RAG search, intent-aware CRUD, semantic deduplicat
 <td width="50%" valign="top">
 
 ### Topology-Augmented Forecasting
-Research on BiLSTM, PatchTST, persistent homology, and zigzag persistence for robust multi-horizon reservoir-storage forecasting.
+Research on integrating persistent-homology features with BiLSTM forecasting to improve reservoir-storage predictions and latent-space stability.
 
-**Stack:** PyTorch · PatchTST · BiLSTM · Dionysus · Ripser · scikit-learn
+`PyTorch` `BiLSTM` `TDA` `Dionysus` `Time Series`
 
 </td>
 <td width="50%" valign="top">
 
 ### ARIA Industrial AI Assistant
-Real-time monitoring platform for 175 sensor streams across 90 assets, combining anomaly detection, SOP retrieval, alerts, and automated work orders.
+Real-time monitoring architecture for 175 sensor streams across 90 assets, combining anomaly detection, SOP retrieval, alerts, and work-order automation.
 
-**Stack:** Kafka · WebSockets · RAG · OpenAI · Python · SMTP
+`Kafka` `WebSockets` `RAG` `Python` `Monitoring`
 
 </td>
 </tr>
 </table>
 
-## Research & Recognition
+## Recognition
 
-- **M.S. Outstanding Student**, School of Computing and Augmented Intelligence, Arizona State University
-- **Outstanding Thesis recognition** for topology-augmented neural time-series forecasting
-- **ASU Hackathon — Most Creative Design**
-- Research interests: agentic AI, LLM reliability, model validation, time-series forecasting, and AI for public-sector decision support
+- **M.S. Outstanding Student**, School of Computing and Augmented Intelligence, ASU — Spring 2026
+- **Most Creative Design**, ASU Hackathon — FeelIn emotion-aware dashboard
+- Research and applied AI work spanning climate policy, hydrologic forecasting, industrial monitoring, and model-risk-aware AI systems
 
 ## Technical Focus
 
@@ -83,11 +76,11 @@ Real-time monitoring platform for 175 sensor streams across 90 assets, combining
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0C2340?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+`Agentic AI` · `RAG` · `LLM Evaluation` · `Model Governance` · `Time-Series Forecasting` · `Topological Data Analysis`
 
 </div>
 
@@ -95,27 +88,23 @@ Real-time monitoring platform for 175 sensor streams across 90 assets, combining
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&bg_color=00000000&color=22D3EE&line=7C3AED&point=10B981&area=true&hide_border=true&radius=8" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madumita24&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=94A3B8&icon_color=22D3EE" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madumita24&hide_border=true&background=00000000&ring=7C3AED&fire=22D3EE&currStreakLabel=10B981&sideLabels=94A3B8&dates=64748B" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Madumita24&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madumita24&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used languages"/>
 
 </div>
 
-## LeetCode
+## Problem Solving
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Madumita24?theme=dark&font=Space%20Mono&ext=heatmap" width="78%">
+<img src="https://leetcard.jacoblin.cool/Madumita24?theme=dark&font=Inter&ext=heatmap" width="100%" alt="LeetCode statistics"/>
 
 </div>
 
----
-
 <div align="center">
 
-**Building AI systems with rigor, reliability, and real-world impact.**
+### Let us build reliable AI systems that create measurable impact.
 
 </div>
