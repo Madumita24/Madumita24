@@ -95,15 +95,7 @@ Real-time monitoring architecture for 175 sensor streams across 90 assets, combi
 
 </div>
 
-## Problem Solving
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Madumita24?theme=dark&font=Inter&ext=heatmap" width="100%" alt="LeetCode statistics"/>
-
-</div>
-
-<div align="center">
 
 ### Let us build reliable AI systems that create measurable impact.
 
