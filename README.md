@@ -69,18 +69,15 @@ Real-time monitoring architecture for 175 sensor streams across 90 assets, combi
 - **Most Creative Design**, ASU Hackathon — FeelIn emotion-aware dashboard
 - Research and applied AI work spanning climate policy, hydrologic forecasting, industrial monitoring, and model-risk-aware AI systems
 
-## Technical Focus
+## Technical Ecosystem
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-`Agentic AI` · `RAG` · `LLM Evaluation` · `Model Governance` · `Time-Series Forecasting` · `Topological Data Analysis`
+<img
+  src="./assets/skills-genai.svg"
+  alt="Madumita's GenAI technical ecosystem"
+  width="100%"
+/>
 
 </div>
 
