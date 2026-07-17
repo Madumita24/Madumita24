@@ -61,7 +61,7 @@ Real-time monitoring architecture for 175 sensor streams across 90 assets, combi
 
 `Kafka` `WebSockets` `RAG` `Python` `Monitoring`
 
-</td>https://github.com/Madumita24/Madumita24/blob/main/README.md
+</td>
 </tr>
 </table>
 
