@@ -18,8 +18,6 @@
 
 ## About
 
-## About
-
 I'm an **AI Engineer and researcher** focused on designing **reliable, production-ready AI systems**. My work spans **Agentic AI, Retrieval-Augmented Generation (RAG), LLM evaluation, AI governance, and time-series forecasting**, with an emphasis on building intelligent systems that are scalable, explainable, and impactful.
 
 I recently completed my **M.S. in Data Science, Analytics and Engineering at Arizona State University**, where my thesis explored **topology-augmented neural forecasting** for long-horizon reservoir storage prediction. I enjoy translating cutting-edge research into practical AI applications that solve real-world challenges.
